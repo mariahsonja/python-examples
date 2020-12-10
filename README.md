@@ -17,3 +17,4 @@ In this repository I added a number of jupyter notebooks with code examples and 
 *This collection of exercises came from my own studies and trainings I have done during the past years. They are all updated to be used with `Python 3.7`.*
 
 :email: mariahsonja@hotmail.com
+
