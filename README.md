@@ -18,3 +18,5 @@ In this repository I added a number of jupyter notebooks with code examples and 
 
 :email: mariahsonja@hotmail.com
 
+**Thank you!**
+
