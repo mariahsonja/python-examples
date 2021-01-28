@@ -12,6 +12,7 @@ In this repository I added a number of jupyter notebooks with code examples and 
 - `pandas` exercises and code examples
 - `python-basics` with baics examples of python list, series, functions, etc.
 - `python-lambda` a group of exercises using lambda functions
+- `python-plots` exemples of plots using natcplolib and seaborn
 
 
 *This collection of exercises came from my own studies and trainings I have done during the past years. They are all updated to be used with `Python 3.7`.*
